@@ -1,0 +1,21 @@
+# 🚀 Data Structures & Algorithms Journey
+
+## 👨‍💻 Goal
+
+Preparing for Software Engineering interviews by solving Blind 75 and mastering problem-solving patterns.
+
+---
+
+## ✅ Progress Tracker
+
+| Problem     | Topic  | Pattern     | Difficulty | Status |
+| ----------- | ------ | ----------- | ---------- | ------ |
+| Move Zeroes | Arrays | Two Pointer | Easy       | ✅     |
+
+---
+
+## 🧠 Patterns Learned
+
+- Two Pointer Technique
+
+---
