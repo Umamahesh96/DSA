@@ -8,14 +8,14 @@ Preparing for Software Engineering interviews by solving Blind 75 and mastering 
 
 ## ✅ Progress Tracker
 
-| Problem     | Topic  | Pattern     | Difficulty | Status |
-| ----------- | ------ | ----------- | ---------- | ------ |
-| Move Zeroes | Arrays | Two Pointer | Easy       | ✅     |
-
+| Problem          | Topic        | Pattern               | Difficulty | Status |
+| -----------------| -------------| ----------------------| ---------- | ------ |
+| Move Zeroes      | Arrays       | Two Pointer           | Easy       | ✅     |
+| Majority Element | Arrays       | Bayer-Moore Algorithm | Easy       | ✅     |
 ---
 
 ## 🧠 Patterns Learned
 
 - Two Pointer Technique
-
+- Bayer-Moore Algorithm
 ---
