@@ -12,6 +12,8 @@ Preparing for Software Engineering interviews by solving Blind 75 and mastering 
 | -----------------| -------------| ----------------------| ---------- | ------ |
 | Move Zeroes      | Arrays       | Two Pointer           | Easy       | ✅     |
 | Majority Element | Arrays       | Bayer-Moore Algorithm | Easy       | ✅     |
+| Remove Duplicates | Arrays       | Two Pointer          | Easy       | ✅     |
+
 ---
 
 ## 🧠 Patterns Learned

@@ -1,7 +1,5 @@
 
-
-
-//Two Pointer Approach 
+//Two Pointer Approach, TC O(n) and SC O(n) 
 class Solution{
     public int removeDuplicates(int[] nums){
         if(nums.length == 0){
